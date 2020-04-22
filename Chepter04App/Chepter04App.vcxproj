@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{D901FDBE-3462-4192-A853-3BA091FB0714}</ProjectGuid>
-    <RootNamespace>Chepter03App</RootNamespace>
+    <ProjectGuid>{FFC88EDE-5DA7-445F-8BC5-4C4A7C231DAD}</ProjectGuid>
+    <RootNamespace>Chepter04App</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -137,6 +137,12 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="carclass.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cursor.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

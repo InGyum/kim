@@ -16,7 +16,7 @@ public:
 	~Human() {
 		printf("%s °´Ã¼°¡ ÆÄ±«µÇ¾ú½À´Ï´Ù\n", this->name);
 		delete[] this->name;
-		
+
 	}
 	void intro() {
 		printf("ÀÌ¸§ = %s, ³ªÀÌ = %d\n", this->name, this->age);
@@ -26,5 +26,5 @@ public:
 int main() {
 	Human man("±èÀÎ°â", 29);
 	man.intro();
-	
+
 }
