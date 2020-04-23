@@ -138,9 +138,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="carclass.cpp" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="cursor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
