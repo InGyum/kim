@@ -18,13 +18,10 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Self6-2.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{FCC7FC2D-AC9B-46D2-BA5D-31D79B6B307A}</ProjectGuid>
-    <RootNamespace>Chepter06App</RootNamespace>
+    <ProjectGuid>{B1969FA2-B08A-44C3-90D3-E9003BB32EBE}</ProjectGuid>
+    <RootNamespace>Chepter07App</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
